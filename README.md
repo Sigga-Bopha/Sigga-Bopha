@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on https://www.littlelotsonline.com/
-- 📫 How to reach me sipho@littlelotsonline.com / www.littlelotsonline.com/
+- 📫 How to reach me sipho@littlelotsonline.com / sales@littlelotsonline.com
 
 <!---
 Sigga-Bopha/Sigga-Bopha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
